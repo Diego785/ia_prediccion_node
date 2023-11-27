@@ -1,5 +1,7 @@
-
-
 node_modules/
-
-Dockerfile
+Dockerfile.node
+docker-compose.yml
+package.json
+package-lock.json
+mongo/
+.env
