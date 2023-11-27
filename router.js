@@ -1,4 +1,4 @@
-const { processApiData } = require('./app');
+const { processApiData } = require('./logic/app');
 
 // Wrap the code in an async function
 (async () => {
